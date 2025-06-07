@@ -60,5 +60,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 *Created by Shuban Borkar*
 *Contact: [shubanborkar@gmail.com](mailto:shubanborkar@gmail.com)*
-
-```
