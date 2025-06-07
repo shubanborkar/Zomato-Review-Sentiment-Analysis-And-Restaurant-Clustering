@@ -19,29 +19,13 @@ This dataset contains comprehensive restaurant and review information designed f
 
 The review data provides rich user-generated content with reviewer names, detailed review text, and numerical ratings. Each review entry includes valuable metadata such as the reviewer's profile information (number of reviews written and followers), timestamps indicating when reviews were posted, and the count of pictures accompanying each review. This dual-table structure enables comprehensive analysis of both restaurant characteristics and customer sentiment, making it suitable for building recommendation engines, performing sentiment analysis, or conducting market research on dining preferences and restaurant performance metrics.
 
-Restaurant Data:
-
-Restaurant name and web URL links
-Estimated per-person dining cost
-Cuisine types and categories served
-Restaurant operating hours and timings
-Collection tags aligned with Zomato platform categories
-
-Review Data:
-
-Reviewer identity and profile information
-Complete review text content
-Numerical rating scores
-Reviewer engagement metrics (total reviews written, follower count)
-Review timestamp and date information
-Associated image count per review
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/zomato-review-sentiment-clustering.git
-   cd zomato-review-sentiment-clustering
+   git clone https://github.com/shubanborkar/Zomato-Review-Sentiment-Analysis-And-Restaurant-Clustering.git
+   cd Zomato
 
 
 2. Create a virtual environment and activate it (optional but recommended):
@@ -57,33 +41,6 @@ Associated image count per review
    ```bash
    pip install -r requirements.txt
    ```
-
-## Usage
-
-* Explore data and visualizations in the `notebooks/` folder.
-* Run sentiment analysis and clustering scripts located in the `src/` folder:
-
-  ```bash
-  python src/sentiment_analysis.py
-  python src/clustering.py
-  ```
-* Check the `reports/` directory for generated charts and summaries.
-
-## Project Structure
-
-```
-zomato-review-sentiment-clustering/
-│
-├── data/                  # Raw and processed datasets
-├── notebooks/             # Jupyter notebooks for exploration and modeling
-├── src/                   # Python scripts for preprocessing, analysis, clustering
-├── models/                # Saved ML models
-├── reports/               # Visualizations and reports
-├── requirements.txt       # Python dependencies
-├── README.md              # Project overview and instructions
-├── .gitignore             # Git ignore file
-└── LICENSE                # License information
-```
 
 ## Results
 
@@ -101,12 +58,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-*Created by Your Name*
-*Contact: [your.email@example.com](mailto:your.email@example.com)*
+*Created by Shuban Borkar*
+*Contact: [shubanborkar@gmail.com](mailto:shubanborkar@gmail.com)*
 
-```
-
----
-
-If you want, I can help you generate the initial Python script for sentiment analysis or clustering next. Would you like that?
 ```
