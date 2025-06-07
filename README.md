@@ -8,14 +8,14 @@ This project analyzes customer reviews from Zomato to extract sentiment insights
 ## Features
 
 - Data preprocessing and cleaning for text reviews and restaurant metadata
-- Sentiment analysis using NLP techniques (lexicon-based or ML-based)
+- Sentiment analysis using NLP techniques
 - Visualization of sentiment distribution across cuisines and locations
-- Clustering restaurants with algorithms like K-Means and Hierarchical Clustering
+- Clustering restaurants with K-Means algorithm
 - Interactive charts and detailed reports summarizing findings
 
 ## Dataset
 
-The dataset contains Zomato restaurant details and user reviews collected from [source/link]. It includes:
+The dataset contains Zomato restaurant details and user reviews collected from [(https://github.com/ushabolimera/Zomoto-Restaurant-Clustering-and-Sentiment-Analysis/blob/main/Zomato%20Restaurant%20names%20and%20Metadata.csv)]. It includes:
 
 - Restaurant information: name, location, cuisine type, average rating, price range, etc.
 - Customer reviews and ratings
