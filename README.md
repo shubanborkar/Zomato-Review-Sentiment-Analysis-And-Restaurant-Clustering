@@ -15,10 +15,26 @@ This project analyzes customer reviews from Zomato to extract sentiment insights
 
 ## Dataset
 
-The dataset contains Zomato restaurant details and user reviews collected from [(https://github.com/ushabolimera/Zomoto-Restaurant-Clustering-and-Sentiment-Analysis/blob/main/Zomato%20Restaurant%20names%20and%20Metadata.csv)]. It includes:
+This dataset contains comprehensive restaurant and review information designed for restaurant recommendation and analysis systems. The restaurant data includes essential business details such as restaurant names, web links, estimated per-person dining costs, and cuisine types served. Additionally, it captures operational information like restaurant timings and collection tags that align with popular food delivery platforms like Zomato categories.
 
-- Restaurant information: name, location, cuisine type, average rating, price range, etc.
-- Customer reviews and ratings
+The review data provides rich user-generated content with reviewer names, detailed review text, and numerical ratings. Each review entry includes valuable metadata such as the reviewer's profile information (number of reviews written and followers), timestamps indicating when reviews were posted, and the count of pictures accompanying each review. This dual-table structure enables comprehensive analysis of both restaurant characteristics and customer sentiment, making it suitable for building recommendation engines, performing sentiment analysis, or conducting market research on dining preferences and restaurant performance metrics.
+
+Restaurant Data:
+
+Restaurant name and web URL links
+Estimated per-person dining cost
+Cuisine types and categories served
+Restaurant operating hours and timings
+Collection tags aligned with Zomato platform categories
+
+Review Data:
+
+Reviewer identity and profile information
+Complete review text content
+Numerical rating scores
+Reviewer engagement metrics (total reviews written, follower count)
+Review timestamp and date information
+Associated image count per review
 
 ## Installation
 
