@@ -1,4 +1,4 @@
-````markdown
+
 # Zomato Review Sentiment Analysis and Restaurant Clustering
 
 ## Project Overview
@@ -26,7 +26,7 @@ The dataset contains Zomato restaurant details and user reviews collected from [
    ```bash
    git clone https://github.com/yourusername/zomato-review-sentiment-clustering.git
    cd zomato-review-sentiment-clustering
-````
+
 
 2. Create a virtual environment and activate it (optional but recommended):
 
