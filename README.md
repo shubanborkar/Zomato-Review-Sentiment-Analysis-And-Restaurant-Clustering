@@ -33,7 +33,7 @@ India’s restaurant industry is diverse and rapidly growing, with Zomato provid
 - Provide data-driven recommendations for Zomato and its users.
 
 ## Screenshots
-Below are key views of the dashboard (screenshots to be added in the `screenshots/` folder):
+Below are key views of the dashboard:
 
 | **Data Overview** | **Sentiment Analysis** | **Clustering** |
 |--------------------|-------------------------|----------------|
