@@ -76,10 +76,6 @@ if restaurant_data is not None and reviews is not None:
             rating_mean = reviews["Rating"][reviews["Rating"].notna()].mean()
             reviews["Rating"] = reviews["Rating"].fillna(rating_mean)
 
-        # Log unique values for debugging
-        unique_ratings = reviews["Rating"].unique()
-        st.write(f"Unique ratings after preprocessing: {unique_ratings[:10]} (showing first 10)")
-
         # Extract reviewer metadata
         def extract_follower_and_review_count(text):
             review_pattern = r"(\d+) Review"
