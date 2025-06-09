@@ -177,7 +177,7 @@ Please report issues or suggest improvements via the [Issues](https://github.com
 ## Author
 - **Shuban Borkar**
 - GitHub: [shubanborkar](https://github.com/shubanborkar)
-- Email: [Your email, if you wish to share]
+- Email: [shubanborkar@gmail.com](mailto:shubanborkar@gmail.com)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
