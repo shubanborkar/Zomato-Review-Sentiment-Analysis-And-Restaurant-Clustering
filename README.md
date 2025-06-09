@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3.13-blue)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.39.0-red)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-green)](https://github.com/shubanborkar/Zomato-Review-Sentiment-Analysis-And-Restaurant-Clustering)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://zomato-review-sentiment-analysis-and-restau-0i6bdt.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://zomato-review-sentiment-analysis-and-restaurant-clustering.streamlit.app/)
 
 ## Project Overview
 This project is an interactive **Streamlit dashboard** designed to analyze Zomato restaurant data across Indian cities. It performs **sentiment analysis** on customer reviews to uncover user satisfaction trends and **clusters restaurants** based on cuisines, cost, and ratings using KMeans. The dashboard provides actionable insights for:
@@ -13,7 +13,7 @@ This project is an interactive **Streamlit dashboard** designed to analyze Zomat
 The project was developed as an individual contribution by **Shuban Borkar** for exploring data-driven insights in India's evolving restaurant industry.
 
 ## Live Demo
-Try the deployed app: [Zomato Dashboard](https://zomato-review-sentiment-analysis-and-restau-0i6bdt.streamlit.app/)
+Try the deployed app: [Zomato Dashboard](https://zomato-review-sentiment-analysis-and-restaurant-clustering.streamlit.app/)
 
 ## Features
 - **Data Overview**:
