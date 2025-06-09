@@ -37,7 +37,7 @@ Below are key views of the dashboard:
 
 | **Data Overview** | **Sentiment Analysis** | **Clustering** |
 |--------------------|-------------------------|----------------|
-| ![Data Overview](screenshots/data_overview.png) | ![Sentiment Analysis](screenshots/sentiment_analysis.png) | ![Clustering](screenshots/clustering.png) |
+| ![Data Overview](screenshots/data_overview1.png) | ![Sentiment Analysis](screenshots/sentiment_analysis.png) | ![Clustering](screenshots/clustering.png) |
 
 *Note*: To add screenshots, capture images of each tab in the app and place them in the `screenshots/` folder. Update the paths above if filenames differ.
 
