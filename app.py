@@ -12,7 +12,7 @@ from collections import defaultdict
 
 # Page configuration
 st.set_page_config(page_title="Zomato Restaurant Clustering & Sentiment Analysis By Shuban Borkar", layout="wide")
-st.title("🍽️ Zomato Restaurant Clustering & Sentiment Analysis")
+st.title("🍽️ Zomato Restaurant Clustering & Sentiment Analysis By Shuban Borkar")
 st.markdown("An interactive dashboard for analyzing Zomato restaurant data, including sentiment analysis and clustering.")
 
 # Load spaCy model
